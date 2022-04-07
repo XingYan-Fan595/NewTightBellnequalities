@@ -1,0 +1,98 @@
+
+The data about new tight (4, 2, 2) inequalities generated from Sliwa's 20th inequality (whose form can be found in Supplemental Material) via iterative formula and equivalent transformations. In every row below, the first cell shows the identifier 
+number of new inequality, and the second curly brace indicates the equivalent transformations thereof from "B_1" (i.e. associated Sliwa inequality, and "B" expresses the Blackboard bold (\mathbb) "B" in our main text thereafter) to "B_2", "B_3", 
+and "B_4" corresponding to the three elements in sub-braces (note the sub-braces disappear if mere one transformation acts) sequentially. "BODY", "SP" and "OP" refer to the three kinds of equivalent reformations, namely body permutation, 
+(measurement) setting permutation and output permutation respectively.  Besides, the third number illustrates the numerical maximal quantum violation of the newly produced inequality (omit "\[Ellipsis]" if it appears). The next three strings 
+describe whether "B_3=-B_2", "B_2=B_1", "B_3=B_1" or not. Moreover, the last item tests if both "D_1" and "D_2" exist in the newly constructed inequality? "Y" represents "Yes" to the aforementioned question, otherwise not.
+
+
+
+{1},{{SPA12,OPA1,OPA2,OPC1},{BODYBC,SPB12,SPC12},{OPA2,OPA1,BODYBC,OPB1,OPC2,SPB12}},1.62\[Ellipsis],N,N,N,Y
+
+{2},{OPB2,{BODYBC,SPB12,SPC12},{BODYBC,SPB12,SPC12,OPB2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{3},{{SPB12,SPC12,OPC2},OPB1,{SPA12,SPC12,OPB2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{4},{OPA1,OPA2,{OPA1,OPA2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{5},{{SPA12,OPA1},{SPA12,OPA2},{OPA1,OPA2}},1.84\[Ellipsis],N,N,N,Y
+
+{6},{{BODYBC,SPB12,SPC12,OPA1},{BODYBC,SPB12,SPC12,OPA2},{OPA1,OPA2}},1.66\[Ellipsis],N,N,N,Y
+
+{7},{{SPA12,SPC12,OPA1,OPB1},{SPA12,SPC12,OPA2,OPB1},{OPA1,OPA2}},1.64\[Ellipsis],N,N,N,Y
+
+{8},{{OPC2,SPA12,SPC12,OPA1,BODYBC},{OPC2,SPA12,BODYBC,SPB12,OPA2},{OPA1,OPA2}},1.76\[Ellipsis],N,N,N,Y
+
+{9},{{BODYAB,OPA2,OPB2,OPC1},{BODYAB,OPA1,OPB1},{SPA12,SPB12,OPA1,OPA2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{10},{{SPA12,OPC1},SPB12,{OPB1,OPB2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{11},{OPC1,SPB12,{SPB12,OPC1}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{12},{OPC1,{BODYBC,SPB12,SPC12,OPC2},{BODYBC,SPA12,SPB12,OPB2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{13},{SPA12,{SPA12,OPA1,OPA2},{OPA1,OPA2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{14},{SPA12,SPB12,{SPA12,SPB12}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{15},{{SPC12,OPB1},{SPA12,OPA1,OPA2,OPB2},{OPA2,SPC12,OPA1,OPC2,SPB12}},1.63\[Ellipsis],N,N,N,Y
+
+{16},{{BODYBC,SPB12,SPC12},{SPA12,OPA1,OPA2},{SPC12,BODYBC,OPA2,OPA1,SPA12,SPC12}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{17},{{BODYBC,SPB12,SPC12},{OPA1,OPA2,BODYBC,SPB12,SPC12},{OPA1,OPA2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{18},{{BODYBC,SPB12,SPC12},{OPB2,SPC12,SPB12,BODYBC,OPA1,OPA2},{OPA1,OPA2,OPC1}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{19},{{BODYBC,SPB12,SPC12},OPC1,{BODYBC,SPB12,SPC12,OPC1}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{20},{{BODYBC,SPB12,SPC12},{SPB12,OPA1,OPA2,OPB1},{BODYBC,OPA1,SPB12,OPA2,OPC2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{21},{{BODYBC,OPB1,OPC1},{SPA12,OPA1,OPA2},{BODYBC,OPA1,OPC1,SPC12,OPA2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{22},{{BODYBC,SPB12,OPB2,OPC2},{BODYBC,SPB12,SPC12},{SPA12,OPC1}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{23},{{SPA12,SPC12,OPB1},{SPA12,OPA1,OPA2},{SPC12,OPA1,OPA2,OPB1}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{24},{{SPA12,SPC12,OPB1},{OPA2,OPB1,SPA12,OPA2,SPC12},{OPA1,OPA2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{25},{{SPA12,SPC12,OPB1},{SPC12,OPB1},SPA12},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{26},{{SPA12,SPC12,OPB1},SPC12,{SPA12,OPB1}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{27},{{BODYBC,SPC12,OPC2},{BODYBC,OPA1,SPA12,OPC1,OPA1},{OPA1,OPA2,OPB1}},1.62\[Ellipsis],N,N,N,Y
+
+{28},{{BODYBC,SPC12,OPC2},{BODYBC,SPA12,OPA1,OPA2},{OPA1,OPA2,OPB1,OPC1}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{29},{{BODYBC,SPC12,OPC2},{SPA12,OPA1,OPA2,OPC1},{BODYBC,OPA1,OPA2,OPB1}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{30},{{BODYBC,SPC12,OPC2},{BODYBC,OPB1,OPC1},SPA12},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{31},{{BODYBC,SPC12,OPC2},{BODYBC,OPC1},{SPA12,OPB1}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{32},{{BODYBC,SPA12,SPB12,SPC12},{SPC12,SPA12,OPC1,BODYBC,OPA1,OPA2},{OPA1,OPA2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{33},{{SPB12,OPB2},{SPB12,OPB1},{OPB1,OPB2}},5/2,N,N,N,Y
+
+{34},{{OPB1,OPC1},{BODYBC,SPC12,OPC2},{BODYBC,SPA12}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{35},{OPB1,OPB2,{OPB1,OPB2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{36},{OPB1,{BODYBC,OPC2},{BODYBC,OPB1,OPC2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{37},{OPB1,{SPA12,SPC12,OPB1},{SPA12,SPC12}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{38},{{SPB12,SPC12},{SPC12,OPC2},{SPB12,OPC1}},5/2,N,N,N,Y
+
+{39},{BODYBC,{BODYBC,SPC12,OPC2},{SPB12,OPB2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{40},{SPC12,OPB2,{SPC12,OPB2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{41},{SPC12,{SPB12,SPC12,OPC2},{SPB12,OPC1}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{42},{{SPA12,SPB12,OPA1,OPA2},SPA12,{SPB12,OPA1,OPA2}},1/4 (3+Sqrt[13]),N,N,N,Y
+
+{43},{{SPA12,OPA1,OPA2,OPB2},{BODYBC,SPB12,SPC12},{OPA1,BODYBC,SPB12,OPC1,OPC2,OPA2}},1.62\[Ellipsis],N,N,N,Y
+
+{44},{{OPA2,SPC12,OPB2,OPA1,OPB1},{SPC12,OPB1},{OPA1,OPA2,OPB2}},1.63\[Ellipsis],N,N,N,Y
+
+{45},{{SPC12,OPA2,OPC2,BODYBC,OPB1,OPA1},{BODYBC,SPB12,SPC12},{OPA1,OPA2,OPB2}},1.62\[Ellipsis],N,N,N,Y

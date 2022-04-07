@@ -1,0 +1,28 @@
+
+  The data about new tight (4, 2, 2) inequalities generated from Sliwa's 10th inequality (whose form can be found in Supplemental Material) via iterative formula and equivalent transformations. In every row below, the first cell shows the identifier 
+number of new inequality, and the second curly brace indicates the equivalent transformations thereof from "B_1" (i.e. associated Sliwa inequality, and "B" expresses the Blackboard bold (\mathbb) "B" in our main text thereafter) to "B_2", "B_3", 
+and "B_4" corresponding to the three elements in sub-braces (note the sub-braces disappear if mere one transformation acts) sequentially. "BODY", "SP" and "OP" refer to the three kinds of equivalent reformations, namely body permutation, 
+(measurement) setting permutation and output permutation respectively.  Besides, the third number illustrates the numerical maximal quantum violation of the newly produced inequality (omit "\[Ellipsis]" if it appears). The next three strings 
+describe whether "B_3=-B_2", "B_2=B_1", "B_3=B_1" or not. Moreover, the last item tests if both "D_1" and "D_2" exist in the newly constructed inequality? "Y" represents "Yes" to the aforementioned question, otherwise not.
+
+
+
+{1},{{SPB12,SPC12},{BODYAB,BODYAC,OPB1,OPC1},{BODYBC,OPA1}},Sqrt[2],N,N,N,Y
+
+{2},{{SPB12,SPC12},{BODYAC,SPA12,SPC12},{BODYAB,BODYAC,OPA1}},Sqrt[2],N,N,N,Y
+
+{3},{OPA1,BODYBC,{BODYBC,OPA1}},1,N,N,N,Y
+
+{4},{{BODYAC,OPA1,OPC1},{SPB12,SPC12,OPB2},{OPB1,OPB2}},Sqrt[2],N,N,N,Y
+
+{5},{{BODYAB,SPC12,OPC2},{BODYAB,OPA1,OPA2,OPC1},{BODYBC,SPC12,OPA1}},Sqrt[2],N,N,N,Y
+
+{6},{{BODYAB,SPC12,OPC2},SPC12,{BODYAB,OPC1}},Sqrt[2],N,N,N,Y
+
+{7},{{BODYAB,SPC12,OPC2},{SPB12,OPB1,OPB2},{BODYBC,OPA1}},Sqrt[2],N,N,N,Y
+
+{8},{{BODYAC,SPB12},{BODYAB,OPA1,OPB1},{BODYBC,SPC12,OPA1}},Sqrt[2],N,N,N,Y
+
+{9},{{SPA12,OPA2},{BODYBC,SPA12},{BODYBC,OPA1}},Sqrt[2],N,N,N,Y
+
+{10},{{SPC12,OPB2},{SPC12,OPB1},{OPB1,OPB2}},Sqrt[2],N,N,N,Y
