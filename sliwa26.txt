@@ -1,0 +1,14 @@
+
+    The data about new tight (4, 2, 2) inequalities generated from \'Sliwa's 26th inequality (whose form can be found in Supplemental Material (SM)) via iterative formula and equivalent transformations. In every row below, the first cell shows the 
+identifier number of new inequality, and the second curly brace indicates the equivalent transformations thereof from "B_3^{(++)}" (i.e. associated \'Sliwa inequality, and "B" expresses the Blackboard bold (\mathbb) "B" in SM thereafter) to 
+"B_3^{(+-)}", "B_3^{(-+)}", and "B_3^{(--)}" corresponding to the three elements in sub-braces (note the sub-braces disappear if mere one transformation acts) sequentially. "BODY", "SP" and "OP" refer to the three kinds of equivalent 
+transformations, i.e., body permutation, (measurement) setting permutation and output permutation respectively.  Besides, the third number illustrates the numerical maximal quantum violation of the newly produced inequality (omit "\[Ellipsis]" if 
+it appears). The next three strings describe whether "B_3^{(-+)}=-B_3^{(+-)}", "B_3^{(+-)}=B_3^{(++)}", "B_3^{(-+)}=B_3^{(++)}" or not. Moreover, the last item tests if both "D_1" and "D_2" exist in the newly constructed inequality? "Y" represents 
+"Yes" to the question, otherwise not.
+
+
+{1},{OPB1,BODYAC,{BODYAC,OPB1}},1/5 (1+4 Sqrt[3]),N,N,N,Y
+
+{2},{SPA12,{SPA12,OPA1,OPA2},{OPA1,OPA2}},1/5 (-3+8 Sqrt[2]),N,N,N,Y
+
+{3},{{SPA12,OPA1},{SPA12,OPA2},{OPA1,OPA2}},2.26\[Ellipsis],N,N,N,Y

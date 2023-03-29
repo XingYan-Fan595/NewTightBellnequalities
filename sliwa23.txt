@@ -1,0 +1,22 @@
+
+    The data about new tight (4, 2, 2) inequalities generated from \'Sliwa's 23rd inequality (whose form can be found in Supplemental Material (SM)) via iterative formula and equivalent transformations. In every row below, the first cell shows the 
+identifier number of new inequality, and the second curly brace indicates the equivalent transformations thereof from "B_3^{(++)}" (i.e. associated \'Sliwa inequality, and "B" expresses the Blackboard bold (\mathbb) "B" in SM thereafter) to 
+"B_3^{(+-)}", "B_3^{(-+)}", and "B_3^{(--)}" corresponding to the three elements in sub-braces (note the sub-braces disappear if mere one transformation acts) sequentially. "BODY", "SP" and "OP" refer to the three kinds of equivalent 
+transformations, i.e., body permutation, (measurement) setting permutation and output permutation respectively.  Besides, the third number illustrates the numerical maximal quantum violation of the newly produced inequality (omit "\[Ellipsis]" if 
+it appears). The next three strings describe whether "B_3^{(-+)}=-B_3^{(+-)}", "B_3^{(+-)}=B_3^{(++)}", "B_3^{(-+)}=B_3^{(++)}" or not. Moreover, the last item tests if both "D_1" and "D_2" exist in the newly constructed inequality? "Y" represents 
+"Yes" to the question, otherwise not.
+
+
+{1},{{BODYAB,SPB12},{BODYAB,SPA12},{SPA12,SPB12}},1/2 (-4+3 Sqrt[6]),N,N,N,Y
+
+{2},{BODYAB,{BODYAB,SPA12,SPB12},{SPA12,SPB12}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{3},{SPA12,{SPA12,OPA1,OPA2},{OPA1,OPA2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
+
+{4},{SPA12,SPB12,{SPA12,SPB12}},1/8 (-3+3 Sqrt[17]),N,N,N,Y
+
+{5},{{SPB12,OPB2},{SPB12,OPB1},{OPB1,OPB2}},1/6 (7+Sqrt[10]),N,N,N,Y
+
+{6},{OPB1,OPB2,{OPB1,OPB2}},1/8 (-3+3 Sqrt[17]),N,N,N,Y
+
+{7},{{SPA12,SPB12,OPA1,OPA2},SPA12,{SPB12,OPA1,OPA2}},1/2 (-1+3 Sqrt[2]),N,N,N,Y
